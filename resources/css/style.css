@@ -1,0 +1,63 @@
+* {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.header {
+  background-image: url("../images/bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+ul.list {
+  list-style: none;
+}
+
+.list li {
+  margin-bottom: 10px;
+}
+
+.header li a {
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+
+.process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process p {
+  font-size: 14px;
+}
+
+.design h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/bg.png");
+  width: 100%;
+}
+
+.footer p {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.listing a {
+  font-weight: bold;
+  color: white;
+}
